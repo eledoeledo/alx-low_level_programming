@@ -9,7 +9,7 @@ int main(void)
 {
 	int toto;
 
-	for ( toto = 0; toto < 10; toto++)
+	for (toto = 0; toto < 10; toto++)
 	{
 		printf("%d", toto);
 	}
