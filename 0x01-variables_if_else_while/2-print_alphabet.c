@@ -9,7 +9,7 @@ int main(void)
 {
 	char top;
 
-	for (top = 'a'; top <= 'z'; top++);
+	for (top = 'a'; top <= 'z'; top++)
 	{
 		putchar(top);
 	}
