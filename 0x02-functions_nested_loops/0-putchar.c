@@ -2,6 +2,7 @@
 
 /**
 *main - prints _putchar
+*is written by eledo
 *Return: Always 0 (Success)
 */
 
