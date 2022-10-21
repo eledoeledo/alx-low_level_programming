@@ -7,7 +7,7 @@
 
 void print_numbers(void)
 {
-	char o;
+	char o = 0;
 
 	while (o <= 9)
 	{
