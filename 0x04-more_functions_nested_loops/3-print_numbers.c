@@ -14,4 +14,5 @@ void print_numbers(void)
 		_putchar(lolo + '0');
 		lolo++;
 	}
+	_putchar('\n');
 }
