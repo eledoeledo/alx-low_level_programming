@@ -7,12 +7,12 @@
 
 void print_numbers(void)
 {
-	char o = 0;
+	char a = '0';
 
-	while (o <= 9)
+	while (a <= '9')
 	{
-		_putchar(o + '0');
-		o++;
+		_putchar(a + '0');
+		a++;
 	}
 	_putchar('\n');
 }
