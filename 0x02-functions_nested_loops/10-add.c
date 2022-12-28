@@ -7,9 +7,11 @@
 *Return: result of add
 */
 
-int add(int n, int j)
+int add(int n1, int n2)
 {
-	int r = n + j;
+	int sum;
 
-	return (r);
+	sum = n1 + n2;
+
+	return (sum);
 }
